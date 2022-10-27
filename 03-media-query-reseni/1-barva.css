@@ -1,0 +1,20 @@
+
+.barva {
+	background-color: green;
+}
+
+
+@media (min-width: 400px) and (max-width: 600px) {
+	.barva {
+		background-color: red;
+	}
+}
+
+@media (min-width: 900px) {
+	.barva {
+		background-color: blue;
+	}
+}
+
+
+
